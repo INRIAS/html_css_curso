@@ -1,4 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
 img {
     width: 20%;
     height: auto;
+}
+
+a img {
+    width: 2%;
+    height: auto;
+}
+
+h1,
+h2 {
+    color: brown;
 }
