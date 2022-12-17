@@ -1,2 +1,2 @@
-# html_css_curso
+# html_curso
 Clases de Html con nuevas novedad
