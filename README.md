@@ -2,9 +2,9 @@
 Clases de Html con nuevas novedad
 
 ## 📝 ÍNDICE:
-1. * Bienvenida
-2. * Software que debemos instalar para comenzar.
-3. * Configuración de Visual Studio Code.
+1. * Documentos
+2. * Software
+3. * Configuración de Visual Studio Code
 4. * Creando mi primer documento HTML
 5. * Emmet.io y Atajos de Visual Studio Code
 6. * Introducción a HTML y su documentación
@@ -47,4 +47,3 @@ Clases de Html con nuevas novedad
 43. * Metaetiquetas para SEO y Móviles
 44. * Meta etiquetas para Redes Sociales
 45. * Accesibilidad Web
-46. * Despedida
